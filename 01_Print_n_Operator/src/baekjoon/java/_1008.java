@@ -2,15 +2,15 @@ package baekjoon.java;
 
 import java.util.Scanner;
 
-public class No_1001 {
+public class _1008 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-        int A,B;
-        A=sc.nextInt();
-        B=sc.nextInt();
+        double a,b;
+        a=sc.nextInt();
+        b=sc.nextInt();
+        System.out.println(a/b);
         sc.close();
-        System.out.println(A - B); 
 	}
 
 }

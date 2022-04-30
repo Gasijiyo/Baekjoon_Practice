@@ -1,6 +1,6 @@
 package baekjoon.java;
 
-public class No_10172 {
+public class _10172 {
 
 	public static void main(String[] args) {
 		System.out.println("|\\_/|");

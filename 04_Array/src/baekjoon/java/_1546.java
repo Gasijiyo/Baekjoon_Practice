@@ -8,7 +8,7 @@ public class _1546 {
 		
 		// 시험의 개수, 시험점수 저장할 배열 선언
 		int subject = sc.nextInt();
-		float[] score = new float[subject];
+		double[] score = new double[subject];
 		
 		// 배열에 점수 입력해 저장
 		for(int i = 0; i < score.length; i++) {

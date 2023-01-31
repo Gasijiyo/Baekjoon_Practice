@@ -13,7 +13,6 @@ public class _2675 {
 		for (int i = 0; i < a ; i++) {
 			String[] arr = br.readLine().split(" ");
 			int count = Integer.parseInt(arr[0]);
-//			String str = arr[1];
 			
 			for (byte strValue : arr[1].getBytes()) {
 				for (int j = 0 ; j < count ; j++) {

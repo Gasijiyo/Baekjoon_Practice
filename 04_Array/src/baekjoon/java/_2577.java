@@ -12,7 +12,7 @@ public class _2577 {
 		
 		int result = a * b * c;
 		String num = Integer.toString(result);			
-		
+		sc.close();
 		for (int i = 0; i < 10 ; i++) {
 			int count = 0;
 			for(int j = 0 ; j < num.length(); j++) {

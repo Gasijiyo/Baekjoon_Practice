@@ -38,25 +38,5 @@ public class _2738 {
 				}
 			}
 		}
-		
-//		Integer.parseInt(m1[i]) + Integer.parseInt(m2[i]);
-		
-//		for (int i = 0 ; i < m1.length ; i++) {
-//			System.out.print(m1[i] + " ");
-//		}
-//		for (int i = 0 ; i < m2.length ; i++) {
-//			System.out.print(m2[i] + " ");
-//		}
-		
-//		for (int i = 0 ; i < matrix1.length ; i++) {
-//				System.out.println(matrix1[i]);
-//		}
-//		for (int i = 0 ; i < matrix2.length ; i++) {
-//			System.out.println(matrix2[i]);
-//		}
-		
-
-
 	}
-
 }
